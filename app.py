@@ -28,4 +28,4 @@ for linha in sheet_alunos.iter_rows(min_row=2):
     font_geral = ImageFont.truetype('./tahoma.ttf')
 
     Image.open('./certificado_padrao.jpg')
-    print('teste')
+    print('TESTE')
